@@ -5,11 +5,11 @@ Links/Items to have on hand:
 
 1. Google Search Console Account/Access, 
 re: https://search.google.com/search-console/about
-<p> *** enable APIs </p>
-<p> *** Create OAuth 2.0 Credentials </p>
-<p> *** client_id </p>
-<p> *** client_secret </p>
-<p> *** scopes  </p>
+<p> --> enable APIs </p>
+<p> --> Create OAuth 2.0 Credentials </p>
+<p> --> client_id </p>
+<p> --> client_secret </p>
+<p> --> scopes  </p>
 
 2. Google Cloud Console Access and Project, 
 re: https://console.cloud.google.com/
